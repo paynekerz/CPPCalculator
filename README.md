@@ -1,5 +1,7 @@
 ﻿# C++ Command Line Calculator
 
+![Calculator](./images/istockphoto-603187710-612x612.jpg)
+
 This is an extremely simple calculator I made while relearning C++.
 
 Download the repo, compile and run it:
